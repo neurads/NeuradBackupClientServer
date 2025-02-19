@@ -1,0 +1,18 @@
+{
+  "name": "neuradbackupclientserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "run": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Vishal B",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "ferbotz-rekon-client": "^1.0.6",
+    "mongoose": "^8.6.3"
+  }
+}
